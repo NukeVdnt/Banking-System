@@ -12,3 +12,17 @@ Database contains two Tables- Users Table & Transaction Table
 2. Transaction table records all transfers happened along with their time.  
 
 Flow of the Website: Home Page > View all Users > Select and View one User > Transfer Money > Select reciever > View all Users > View Transfer History.
+
+## Snapshots
+
+### Home Page
+![home page](screenshot/main.png)
+
+### Create User Page
+![create user](screenshot/createuser.png)
+
+### Transfer page/ All Users Page
+![transfer page](screenshot/transfer.png)
+
+### Transaction History
+![history](screenshot/history.png)
