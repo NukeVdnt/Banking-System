@@ -16,13 +16,13 @@ Flow of the Website: Home Page > View all Users > Select and View one User > Tra
 ## Snapshots
 
 ### Home Page
-![home page](screenshot/main.png)
+![home page](snapshots/main.png)
 
 ### Create User Page
-![create user](screenshot/createuser.png)
+![create user](snapshots/createuser.png)
 
 ### Transfer page/ All Users Page
-![transfer page](screenshot/transfer.png)
+![transfer page](snapshots/transfer.png)
 
 ### Transaction History
-![history](screenshot/history.png)
+![history](snapshots/history.png)
