@@ -16,13 +16,13 @@ Flow of the Website: Home Page > View all Users > Select and View one User > Tra
 ## Snapshots
 
 ### Home Page
-![home page](snapshots/main.png)
+![home page](https://github.com/NukeVdnt/TSF-Banking-System/blob/main/snapshots/main.png)
 
 ### Create User Page
-![create user](snapshots/createuser.png)
+![create user](https://github.com/NukeVdnt/TSF-Banking-System/blob/main/snapshots/createuser.png)
 
 ### Transfer page/ All Users Page
-![transfer page](snapshots/transfer.png)
+![transfer page](https://github.com/NukeVdnt/TSF-Banking-System/blob/main/snapshots/transfer.png)
 
 ### Transaction History
-![history](snapshots/history.png)
+![history](https://github.com/NukeVdnt/TSF-Banking-System/blob/main/snapshots/history.png)
