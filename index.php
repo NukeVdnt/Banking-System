@@ -8,7 +8,7 @@
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link rel="stylesheet" type="text/css" href="css/navbar.css">
 
-    <title>Banking System</title>
+    <title>Banking System 💵</title>
   </head>
 
   <body>
