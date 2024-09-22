@@ -21,8 +21,8 @@ This web application is a simple banking system built using PHP and MySQL. It pr
 - Transaction History: Users can view a detailed history of their transactions.
 
 ## Tech Stack 
-Front-end : HTML, CSS, Bootstrap & Javascript 
-Back-end : PHP 
-Database : MySQL   
+- Front-end : HTML, CSS, Bootstrap & Javascript 
+- Back-end : PHP 
+- Database : MySQL   
 
 
